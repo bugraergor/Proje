@@ -26,4 +26,4 @@ GezginDer, kullanıcıların popüler gezi rotalarını keşfedebildiği, kendi 
 * Nurettin Yavuz
 * Buğrahan Ergör
 * Duygu Bebek
-* İrem Zülal
+* İrem Zülal Şeker
